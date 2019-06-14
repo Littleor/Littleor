@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Littleor</title>
+    <script src="vue.js"></script>
+    <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/iview/dist/styles/iview.css">
+
+    <script src="https://unpkg.com/iview/dist/iview.js"></script>
+<style>
+    html,body{
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+    }
+    body{
+        padding: 20px;
+    }
+.layout{
+    height: 100%;
+    width: 100%;
+    background-color: #f0cfe8;
+    position: relative;
+
+}
+
+    .icon
+    {
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+        position: relative;
+        margin-top: 20px;
+        width: 20%;
+        border:7px solid #FFF;
+    }
+    .time{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .content{
+        padding-left: 5px;
+    }
+</style>
+</head>
+
+<body>
+<div id="app"">
+
+</div>
+    <script>
+        Vue.use(VueRouter);
+        Vue.use(iview);
+        new Vue({
+            el:'#app',
+            template:`
+<Card class="layout">
+
+                <div style="text-align:center">
+                    <img class="icon" src="icon.jpg">
+                    <h1 style="color: #eb3dce; ">Littleor</h1>
+                    <h3 style="letter-spacing:3px;margin-top:6px">A  Technological  Lover</h3>
+                </div>
+                <Divider></Divider>
+                <div style="width: 100%;position: relative;">
+                <div  style="left:50%;margin-left: -50px;position: absolute;">
+                <Timeline>
+        <TimelineItem>
+            <p class="time">2018年2月</p>
+            <p class="content">开始学习HTML</p>
+        </TimelineItem>
+        <TimelineItem>
+            <p class="time">2018年6月</p>
+            <p class="content">搭建 <a href="https://bug.muwall.cn">小明影院</a></p>
+        </TimelineItem>
+        <TimelineItem>
+            <p class="time">2018年8月</p>
+            <p class="content">开发 <a href="https://muwall.cn">鄱阳一中表白墙</a></p>
+        </TimelineItem>
+        <TimelineItem>
+            <p class="time">2019年6月</p>
+            <p class="content">开始学习 Vue</p>
+        </TimelineItem>
+       <TimelineItem><a href="https://github.com/Littleor">查看更多</a></TimelineItem>
+    </Timeline>
+    </div>
+</div>
+<div class="foot">
+
+</div>
+</Card>
+
+            `
+        })
+
+
+    </script>
+</body>
+
+
+</html>
