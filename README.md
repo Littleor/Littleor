@@ -1,2 +1,2 @@
-# Littleor
-用Vue开发的一个个人页面呀
+![Littleor's github stats](https://github-readme-stats.vercel.app/api?username=Littleor&show_icons=true&theme=Gradient)
+[![Littleor's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littleor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
