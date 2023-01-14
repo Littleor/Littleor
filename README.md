@@ -116,7 +116,7 @@
 
 <h3 align="left">More about me:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Littleor&count_private=true&show_icons=true" alt="Profile"/> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Littleor&show_icons=true" alt="Profile"/> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Littleor&" alt="Profile"/> </p>
 
 
