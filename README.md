@@ -1,6 +1,10 @@
 <h1 align="center">Hi, This is Littleor 👋</h1>
-<h3 align="center">A little developer for anything.</h3>
 
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Littleor&show_icons=true" alt="Profile"/> 
+
+  <!--
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -116,12 +120,14 @@
 
 <h3 align="left">More about me:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Littleor&show_icons=true" alt="Profile"/> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Littleor&" alt="Profile"/> </p>
 
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Littleor&" alt="Profile"/> </p>
 ![GitHub Snake Light](https://raw.githubusercontent.com/Littleor/Littleor/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Littleor/Littleor/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+-->
 
 <!-- <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Littleor&count_private=true&show_icons=true" alt="Profile"/> 
