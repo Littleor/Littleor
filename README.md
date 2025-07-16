@@ -1,4 +1,5 @@
 ### Hi there 👋  This is Dengming Zhang
+> **I am seeking PhD opportunities for Fall 2026. Any information is appreciated. 🙏**
 
 - 😀 I’m a second-year master student at [Zhejiang University](https://www.zju.edu.cn/).
 - 🏆 My current research interests focus on **Multimodal LLM** and **Affective Computing**. At the same time, I have researched on the **AIGC**, **Meta-learning** and **HCI** on the side. The publications are available at my [homepage](https://littleor.github.io/).
