@@ -2,7 +2,7 @@
 > **I am seeking PhD opportunities for Fall 2026. Any information is appreciated. 🙏**
 
 - 😀 I’m a second-year master student at [Zhejiang University](https://www.zju.edu.cn/).
-- 🏆 My current research interests focus on **Multimodal LLM** and **Affective Computing**. At the same time, I have researched on the **AIGC**, **Meta-learning** and **HCI** on the side. The publications are available at my [homepage](https://littleor.github.io/).
+- 🏆 My current research interests focus on **AI for Creativity**, including **Multimodal LLM**, **Generative AI(Image/Music)** and **Affective Computing**. At the same time, I have researched on the **Meta-learning** and **HCI** on the side. The publications are available at my [homepage](https://littleor.github.io/).
 - 👨‍💻 By the way, I am good at combining scientific research with **engineering implementation**, and I have rich experience in **front-end** development, **back-end** development, and **cluster devops**.
 - 📫 Contact me via dmz@zju.edu.cn.
 
